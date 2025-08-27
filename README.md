@@ -1,4 +1,5 @@
 # khushi1-demo
+
 This is my first Git Repository.
 <br>
-Author- Khushi Solanki
+Author- Khushi Solanki ( brd )
